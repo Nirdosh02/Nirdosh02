@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Nirdosh<br><br>💻 Third-year Information Technology student<br>🚀 Passionate about Software Development<br>🤖 Curious about Machine Learning & AI<br>🏆 Love solving Competitive Coding challenges<br>⚡ Fast learner, always exploring new technologies<br>🏐 Volleyball enthusiast in my free time<br><br>🌱 Currently improving my skills in Full-Stack Development & AI
+👋 Hi there! I'm Nirdosh<br><br>💻 Final-year Information Technology student<br>🚀 Passionate about Software Development<br>🤖 Curious about Machine Learning & AI<br>🏆 Love solving Competitive Coding challenges<br>⚡ Fast learner, always exploring new technologies<br>🏐 Volleyball enthusiast in my free time<br><br>🌱 Currently improving my skills in Full-Stack Development & AI
 
 
 ## 🌐 Socials:
